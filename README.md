@@ -1,6 +1,7 @@
 
 # OnTheSpotParking (for trucks) landing page
-TODO: Write a project description
+Необходимо разработать вебсайт для стартапа. Идея стартапа:  можно назвать "airbnb для парковки дальнобойщиков", то есть с помощью мобильного приложения пытаются соединить дальнобойщиков (водителей грузовых машин) и людей, которые владеют большим парковочным пространством. 
+
 <!-- ## Installation
 TODO: Describe the installation process
 ## Usage
